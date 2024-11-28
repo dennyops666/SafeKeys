@@ -3,10 +3,14 @@
 SafeKeys 是一个用于生成安全密码的 Android 应用程序。它提供了多种选项来定制密码的复杂性和长度，以确保密码的安全性。
 
 
+<<<<<<< HEAD
 UI界面
 
 ![UI 界面](https://github.com/dennyops666/SafeKeys/blob/master/ui-demo/ui-demo.jpg?raw=true)
 
+=======
+
+>>>>>>> 222d2db (20241128 Modified README.md)
 
 
  功能
@@ -15,6 +19,7 @@ UI界面
 密码选项：
   包含大写字母 (A-Z)
   包含小写字母 (a-z)
+  
   包含数字 (0-9)
   包含符号 (!@#$%^&*)
   避免混淆字符 (如 I, l, 1, O, 0)
