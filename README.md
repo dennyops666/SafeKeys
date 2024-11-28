@@ -41,8 +41,10 @@ SafeKeys 是一个用于生成安全密码的 Android 应用程序。它提供�
 
  构建
 
-最低 SDK 版本：24 \n
+最低 SDK 版本：24
+
 目标 SDK 版本：34
+
 编译 SDK 版本：35
 Kotlin 版本：1.7
 gradle 版本：8.11
