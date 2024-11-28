@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Android应用程序的清单文件,定义了应用的基本配置信息 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
@@ -14,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Safekeys"
         tools:targetApi="31">
-cd
+
         <activity
             android:name=".SplashActivity"
             android:exported="true"
@@ -29,8 +28,8 @@ cd
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Safekeys" />
-
+            android:theme="@style/Theme.Safekeys">
+        </activity>
     </application>
 
 </manifest>
