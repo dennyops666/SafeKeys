@@ -70,10 +70,15 @@ UI界面
 构建
 
 最低 SDK 版本：24
+
 目标 SDK 版本：34
+
 编译 SDK 版本：35
+
 Kotlin 版本：1.7
+
 Gradle 版本：8.11
+
 JDK版本：Java 17
 
 依赖
