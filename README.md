@@ -26,9 +26,11 @@ SafeKeys 是一个用于生成安全密码的 Android 应用程序。它提供�
 
 [未来开发功能](#未来开发功能)
 
+
 UI界面
 
 ![UI 界面](https://github.com/dennyops666/SafeKeys/blob/master/ui-demo/ui-demo.jpg?raw=true)
+
 
 功能
 
@@ -45,10 +47,12 @@ UI界面
 密码可见性切换：用户可以选择显示或隐藏密码。
 复制到剪贴板：一键复制生成的密码到剪贴板。
 
+
 界面
 
 应用名称 "SafeKeys" 显示在界面的右上角，使用现代化的字体。
 直观的用户界面，易于使用。
+
 
 安装
 
@@ -59,6 +63,7 @@ UI界面
 2. 使用 Android Studio 打开项目。
 3. 连接 Android 设备或启动模拟器。
 4. 点击运行按钮以安装应用程序。
+5. 
 
 使用
 
@@ -81,19 +86,23 @@ Gradle 版本：8.11
 
 JDK版本：Java 17
 
+
 依赖
 
 Jetpack Compose
 Material3
 AndroidX
 
+
 贡献
 
 欢迎任何形式的贡献！如果你有任何建议或发现了问题，请提交 issue 或者创建 pull request。
 
+
 许可证
 
 此项目基于 MIT 许可证开源。详情请参阅 [LICENSE](LICENSE) 文件。
+
 
 联系信息
 
@@ -101,6 +110,7 @@ AndroidX
 
 电子邮件：dennyoffer@outlook.com
 GitHub: [dennyops666](https://github.com/dennyops666)
+
 
 未来开发功能
 
