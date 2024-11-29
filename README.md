@@ -108,8 +108,7 @@ AndroidX
 如有任何问题或建议，请通过以下方式联系我：
 
 电子邮件：dennyoffer@outlook.com
-GitHub: [dennyops666](https://github.com/dennyops666)
-
+GitHub: ！[dennyops666](https://github.com/dennyops666?raw=true)
 
 未来开发功能
 
